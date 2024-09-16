@@ -1,10 +1,10 @@
 - 👋 Hi, I’m MOHIT RAJ
-- 👀 I’m interested in SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT
-- 💞️ I’m looking to collaborate on START UPS
-- 📫 How to reach me 7549958621
-- 😄 Pronouns: ...
-- ⚡ Fun fact: nerd
+- 👀 ENGINEERING STUDENT 
+- 🌱 SOFTWARE DEVELOPER || FULL STACK DEVELOPER
+- 💞️ STUDYING
+- 📫 CONTACT : RAJM20889@GMAIL.COM || PH:7549958621
+- 😄 LOVE TO LEARN
+- ⚡ INTREST : BUSINESS
 
 <!---
 raj20889/raj20889 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
