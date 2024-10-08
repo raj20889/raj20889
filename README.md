@@ -4,7 +4,7 @@
 - 💞️ SKILLS: C,C++,OPPS,JAVASCRIPT,DBMS,PHP,NODE.JS,HTML,CSS,DSA...
 - 📫 CONTACT : RAJM20889@GMAIL.COM || PH:7549958621
 - 😄 LOVE TO LEARN
-- ⚡ INTREST : BUSINESS
+- ⚡ INTEREST : BUSINESS
 
 <!---
 raj20889/raj20889 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
