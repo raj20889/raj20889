@@ -1,6 +1,6 @@
-# Raj - Full-Stack Developer, Student, and Project Leader
+# MOHIT RAJ - Full-Stack Developer, Student, and Project Leader
 
-Hi there! I'm Raj, an 18-year-old student studying at **Cochin University College of Engineering Kuttanad (CUCEK)** in Kerala. I'm passionate about **web development**, **e-commerce**, and **database management**. I enjoy learning new technologies and building projects that solve real-world problems.
+Hi there! I'm Mohit Raj, an 18-year-old student studying at **Cochin University College of Engineering Kuttanad (CUCEK)** in Kerala. I'm passionate about **web development**, **e-commerce**, and **database management**. I enjoy learning new technologies and building projects that solve real-world problems.
 
 ## About Me
 
